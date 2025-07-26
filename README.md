@@ -44,9 +44,9 @@ A recreation of the iconic Pong arcade game using Python and Turtle, perfect for
 
 I'm always open to connecting with fellow developers, students, and professionals. Feel free to reach out!
 
-- 📧 Email: **your-email@example.com**  
-- 💼 LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)  
-- 🌐 Portfolio: [your-portfolio-website.com](https://your-portfolio-website.com)
+- 📧 Email: kommulasubash@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/subash-kommula/  
+- 🌐 Portfolio: https://v0-kommulasubash.vercel.app/
 
 ---
 
